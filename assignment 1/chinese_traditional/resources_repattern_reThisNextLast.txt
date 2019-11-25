@@ -1,0 +1,36 @@
+// author: Hui Li
+// email:  hui.li@informatik.uni-heidelberg.de
+// date:   2013-12-12
+// This file contains regular expression patterns for "this/next/last" words.
+// FORMAT: one line is one disjunction of the pattern
+最後
+最近
+最終
+過去
+先前
+以前
+此前
+以往
+上個
+上
+前
+去
+昨
+
+當前
+現代
+目前
+當
+這個
+這
+本
+今
+
+下個
+明
+新
+後
+來
+
+//未來
+//最新

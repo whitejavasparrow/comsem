@@ -1,0 +1,51 @@
+// author: Hui Li
+// email:  hui.li@informatik.uni-heidelberg.de
+// date:   2013-12-12
+// This file contains regular expression patterns for "approximate" words.
+// FORMAT: one line is one disjunction of the pattern
+
+// about
+大約
+約
+大概
+差不多
+左右
+近似
+將近
+近於
+近
+幾乎
+前後
+
+//less
+
+只是
+只
+僅僅
+僅
+至多
+不會超過
+不超過
+不過
+
+一直到
+直到
+直至
+少於
+不到
+小於
+低於
+
+// more
+至少
+起碼
+不止
+以上
+超過
+多
+更長
+較長
+//長
+
+
+

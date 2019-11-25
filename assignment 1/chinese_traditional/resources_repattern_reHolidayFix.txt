@@ -1,0 +1,23 @@
+// author: Hui Li
+// email:  hui.li@informatik.uni-heidelberg.de
+// date:   2013-12-12
+// This file contains regular expression patterns for holidays on a fix date.
+// FORMAT: one line is one disjunction of the pattern
+
+元旦
+情人節
+婦女節
+愚人節
+清明節
+勞動節
+五一勞動節
+青年節
+五四青年節
+兒童節
+建軍節
+教師節
+國慶節
+萬聖節
+聖誕節
+
+

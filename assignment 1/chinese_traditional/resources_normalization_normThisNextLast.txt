@@ -1,0 +1,36 @@
+// author: Hui Li
+// email:  hui.li@informatik.uni-heidelberg.de
+// date:   2013-12-12
+// This file contains "this/next/last words" and their normalized expressions.
+// FORMAT: "this/next/last-word","normalized-this/next/last-word"
+"最後","last"
+"最近","last"
+"最終","last"
+"過去","last"
+"先前","last"
+"以前","last"
+"此前","last"
+"以往","last"
+"上個","last"
+"上","last"
+"前","last"
+"去","last"
+"昨","last"
+
+"當前","this"
+"現代","this"
+"目前","this"
+"當","this"
+"這個","this"
+"這","this"
+"今","this"
+"本","this"
+
+"下個","next"
+"明","next"
+"後","next"
+"新","next"
+"來","next"
+
+//"未來","next"
+//"最新","last"

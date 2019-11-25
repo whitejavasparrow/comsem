@@ -1,0 +1,65 @@
+// author: Hui Li
+// email:  hui.li@informatik.uni-heidelberg.de
+// date:   2013-12-12
+// This file contains regular expression patterns for decade words.
+// FORMAT: one line is one disjunction of the pattern
+
+二十世紀
+二十年代
+20世紀
+20年代
+２０世紀
+２０年代
+
+三十世紀
+三十年代
+30世紀
+30年代
+３０世紀
+３０年代
+
+四十世紀
+四十年代
+40世紀
+40年代
+４０世紀
+４０年代
+
+五十世紀
+五十年代
+50世紀
+50年代
+５０世紀
+５０年代
+
+六十世紀
+六十年代
+60世紀
+60年代
+６０世紀
+６０年代
+
+七十世紀
+七十年代
+70世紀
+70年代
+７０世紀
+７０年代
+
+八十世紀
+八十年代
+80世紀
+80年代
+８０世紀
+８０年代
+
+九十世紀
+九十年代
+90世紀
+90年代
+９０世紀
+９０年代
+
+
+
+

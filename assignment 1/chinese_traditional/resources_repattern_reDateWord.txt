@@ -1,0 +1,87 @@
+// author: Hui Li
+// email:  hui.li@informatik.uni-heidelberg.de
+// date:   2013-12-12
+// This file contains regular expression patterns for date words.
+// FORMAT: one line is one disjunction of the pattern
+// THESE EXPRESSIONS ARE ALL IMPLICITS
+// SHOULD ONLY BE UPPER CASE IF AT THE BEGINNING OF A SENTENCE
+
+//today
+今天
+
+//[Tt]he day before yesterday
+前天
+
+//[Tt]omorrow
+明天
+
+//[Rr]ight now
+目前
+日前
+眼前
+方纔
+當前
+
+//[Ss]oon
+不久
+
+//[Rr]ecently [Rr]ecent
+最近
+新近
+近幾年
+這幾年
+近年
+近日
+
+//[Cc]urrently [Cc]urrent
+現時
+時下
+現在
+現今
+如今
+當今
+現
+
+//in the future
+今後幾年
+今後
+近期
+未來
+將來
+
+//[Pp]reviously
+前一陣子
+前幾年
+前不久
+這期間
+當年
+以前
+從前
+原先
+過去
+以往
+那時
+近來
+昔日
+近一段時期
+
+過去的幾十年
+建國初期
+戰後初期
+//商
+//戰國
+//東漢
+//隋
+
+
+//今
+//立刻
+//同時
+//當時
+
+//今日
+//幾年
+
+//與此同時
+//先前
+//之前
